@@ -7,7 +7,7 @@
 
 [DeepLearning.AI TensorFlow Developer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
-[<img src="https://github.com/Adamya113/Tensorflow_developer_professional/blob/main/misc/certificates/Coursera%2039KZ7FEJ8EHL%20Specialization_page-0001.jpg" />](https://https//coursera.org/verify/professional-cert/39KZ7FEJ8EHL)
+[<img src="https://github.com/Adamya113/Tensorflow_developer_professional/blob/main/misc/certificates/Coursera%2039KZ7FEJ8EHL%20Specialization_page-0001.jpg" />](https://coursera.org/verify/professional-cert/39KZ7FEJ8EHL)
 
 ---
 
@@ -22,7 +22,7 @@
   - [Convolutional Neural Networks in TensorFlow](https://github.com/Adamya113/Tensorflow_developer_professional/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://github.com/Adamya113/Tensorflow_developer_professional/blob/main/misc/certificates/Coursera%20VLY2MJFL2DAN%20Convolutional%20Neural%20Networks_page-0001.jpg" />](https://coursera.org/verifyVLY2MJFL2DAN)
+      [<img src="https://github.com/Adamya113/Tensorflow_developer_professional/blob/main/misc/certificates/Coursera%20VLY2MJFL2DAN%20Convolutional%20Neural%20Networks_page-0001.jpg" />](https://coursera.org/verify/VLY2MJFL2DAN)
 
   </p></details>
 
